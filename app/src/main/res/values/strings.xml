@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="edt1">Input RMB</string>
+    <string name="tv2">Hello</string>
+    <string name="btn1">DOLLAR</string>
+    <string name="btn2">EURO</string>
+    <string name="btn3">WON</string>
+    <string name="btn4">CONFIG</string>
+    <string name="btn5">Save</string>
+    <string name="edt2">dollar</string>
+    <string name="edt3">euro</string>
+    <string name="edt4">won</string>
+</resources>
