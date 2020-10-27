@@ -131,7 +131,7 @@ public class MainActivity extends AppCompatActivity implements Runnable {
 //        msg.obj = "Hello from run()";
         handler.sendMessage(msg);
     }
-
+//
     private String inputStream2String(InputStream inputStream)
             throws IOException {
         final int bufferSize = 1024;
